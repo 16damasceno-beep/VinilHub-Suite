@@ -1,0 +1,7 @@
+{
+  "name": "VinylHub Brasil Marketing Suite",
+  "description": "Uma plataforma completa para gerenciar e automatizar a divulgação do seu marketplace de discos de vinil. Gere textos persuasivos com IA, encontre leads brasileiros e envie mensagens via WhatsApp e redes sociais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
